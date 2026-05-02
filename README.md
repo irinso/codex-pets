@@ -2,7 +2,7 @@
 
 ### Cinder
 
-![Cinder preview](cinder/preview-transparent.gif)
+![Cinder preview](cinder/preview-transparent-small.gif)
 
 This is fine.
 
