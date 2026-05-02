@@ -2,7 +2,7 @@
 
 ### Cinder
 
-![Cinder preview](pets/cinder/preview.gif)
+![Cinder preview](cinder/preview.gif)
 
 A tiny orange pixel dog with droopy ears, a small hat, and calm coffee-in-chaos energy.
 
