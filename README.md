@@ -4,7 +4,7 @@
 
 ![Cinder preview](cinder/preview.gif)
 
-A tiny orange pixel dog with droopy ears, a small hat, and calm coffee-in-chaos energy.
+This is fine.
 
 Install folder: `pets/cinder/`
 
