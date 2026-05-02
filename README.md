@@ -8,19 +8,11 @@ A tiny orange pixel dog with droopy ears, a small hat, and calm coffee-in-chaos 
 
 Install folder: `pets/cinder/`
 
-### Fin
-
-![Fin preview](pets/fin/preview.gif)
-
-Our friendly little helper, Fin.
-
-Install folder: `pets/fin/`
-
 ## How To Install A Pet
 
 1. Download this repo or a release zip.
 2. Copy the pet folder you want into your Codex pets folder.
-3. Set the active pet ID to match the folder name, like `cinder` or `fin`.
+3. Set the active pet ID to match the folder name, like `cinder`.
 
 The required files for each pet are `pet.json` and `spritesheet.webp`. `preview.gif` and `README.md` are helper files for sharing on GitHub.
 
