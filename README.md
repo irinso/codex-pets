@@ -1,7 +1,3 @@
-# codex-pets
-
-A small collection of custom Codex pet sprites.
-
 ## Pets
 
 ### Cinder
