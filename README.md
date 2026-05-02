@@ -25,11 +25,6 @@ pets/
     spritesheet.webp
     preview.gif
     README.md
-  fin/
-    pet.json
-    spritesheet.webp
-    preview.gif
-    README.md
 ```
 
 ## Sharing
